@@ -34,7 +34,7 @@ Me encanta la programación y el desarrollo web. Disfruto mucho programando, ya 
             "JavaScript",
             "Firebase"
           ],
-  "repo": "[https://github.com/CarlosDevxb/CRUD-Firebase](https://github.com/CarlosDevxb/CRUD-Firebase)"
+  "repo": "[https://github.com/CarlosDevxb/AplicacionDesarrolloSeguro](https://github.com/CarlosDevxb/AplicacionDesarrolloSeguro)"
 }
 
 
