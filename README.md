@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carlos Cepeda
 
-<!--
-**CarlosDevxb/CarlosDevxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web apasionado por crear soluciones modernas y eficientes.  
+🚀 Me encanta trabajar con **Node.js**, **MySQL**, **JavaScript**, y **Angular**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+
+---
+
+## 📈 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosCepeda&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCepeda&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Encuéntrame en
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- 🌎 [Portafolio](https://tusitio.com)
+- 📧 **tucorreo@ejemplo.com**
