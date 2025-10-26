@@ -74,9 +74,9 @@ I am currently focused on developing **CHAFATEC**, a secure academic management 
 
 <p align="center">
   <!-- Replace 'TU-USUARIO-DE-GITHUB' with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Carlos's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosDevxb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Carlos's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=8&theme=dracula" alt="Carlos's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDevxb&layout=compact&langs_count=8&theme=dracula" alt="Carlos's top languages"/>
 </p>
 
 
