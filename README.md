@@ -51,9 +51,7 @@ Soy un **Ingeniero en Sistemas Computacionales** apasionado por la arquitectura 
 A lo largo de mi carrera profesional y académica, he liderado y colaborado en diversos proyectos clave:
 
 *   🏥 **MediTec-ITS y CuchiNetworks:** Soluciones tecnológicas integrales y redes gestionadas desde la coordinación técnica.
-*   🛡️ **AplicacionDesarrolloSeguro:** Proyecto centrado en la implementación de buenas prácticas de seguridad informática.
-*   🚗 **app-transporte:** Desarrollo de dashboards eficientes y optimización de interfaces interactivas.
-*   🛒 **Chafatec y Cuchitienda:** Creación de plataformas de servicios funcionales y altamente escalables.
+*   🛡️ **CHAFATEC:** Proyecto centrado en la implementación de buenas prácticas de seguridad informática.
 
 ---
 
